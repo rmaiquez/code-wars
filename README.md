@@ -18,10 +18,13 @@
         ├── how-good-are-you-really.py
         ├── remove-string-space.py
         ├── reversed-sequence.py
+        ├── reversed-strings.py
         ├── reversed-words.py
+        ├── short-long-short.py
         ├── square(n)-sum.py
         ├── students-final-grade.py
         ├── surface-area-and-volume-of-a-box.py
         ├── transportation-on-vacation.py
+        ├── who-is-going-to-pay-for-the-wall.py
         └── will-there-be-enough-space.py
 ```
