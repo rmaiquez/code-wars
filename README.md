@@ -6,6 +6,8 @@
 └── python
     ├── 6kyu
     │   └── format-a-string-of-names-like-bart,lisa-&-maggie.py
+    ├── 7kyu
+    │   └── printer-errors.py
     └── 8kyu
         ├── all-star-code-challenge-#18.py
         ├── convert-a-boolean-to-a-string.py
@@ -16,6 +18,8 @@
         ├── count-the-monkeys.py
         ├── get-planet-name-by-id.py
         ├── how-good-are-you-really.py
+        ├── how-many-lightsabers-do-you-own.py
+        ├── is-the-string-uppercase.py
         ├── remove-string-space.py
         ├── reversed-sequence.py
         ├── reversed-strings.py
@@ -27,4 +31,4 @@
         ├── transportation-on-vacation.py
         ├── who-is-going-to-pay-for-the-wall.py
         └── will-there-be-enough-space.py
-```
+'''
